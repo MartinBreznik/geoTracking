@@ -1,7 +1,7 @@
 {
-  "name": "gps-tracking",
+  "name": "tracking",
   "version": "0.0.0",
-  "description": "GPS tracking using node.js, websockets and mongodb",
+  "description": "tracking with node.js, websockets and mongodb",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -17,10 +17,9 @@
     "websockets",
     "mongodb"
   ],
-  "author": "ybouhjira",
-  "license": "BSD-2-Clause",
+  "author": "Martin Breznik",
   "bugs": {
-    "url": "https://github.com/ybouhjira/gps-tracking/issues"
+    "url": "https://github.com/MartinBreznik/geoTracking"
   },
   "dependencies": {
     "socket.io": "~0.9.16",
