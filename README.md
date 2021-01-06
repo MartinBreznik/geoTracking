@@ -1,5 +1,4 @@
 # gps-tracking
-![screenshot](screenshot.png)
 
 ## running the server
 
